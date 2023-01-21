@@ -4,7 +4,7 @@ This is a project done to make us familiar with using github and python
 
 # Requirements
 
-The requirements for running the code in this repository can be found in the 'requirements.txt' file. For this project I used numpy version 1.24.0.
+The requirements for running the code in this repository can be found in the 'requirements.txt' file. The only dependency for this project is numpy. For this project I used numpy version 1.24.0.
 
 # Running Python
 
