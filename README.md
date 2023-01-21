@@ -1,6 +1,6 @@
 # cot-4500-intro
 
-This is a project done to make us familiar with using github and python
+This is a project done to make us familiar with using github and python. This code simply produces a 3x3 matrix in python and performs some manipulations on it using numpy.
 
 # Requirements
 
